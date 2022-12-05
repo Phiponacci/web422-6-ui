@@ -48,7 +48,7 @@ export default function MainNav() {
         expanded={isExpanded}
       >
         <Container>
-          <Navbar.Brand>Student Name</Navbar.Brand>
+          <Navbar.Brand>Mrinaal Nagpal</Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"
             onClick={() => setIsExpanded((e) => !e)}
